@@ -15,6 +15,17 @@ Olist sales database comprises of different tables related to Orders,  Products,
 ![Database Schema](Olist_Database_Schema.jpg)
 
 
+## Data Visualization using Power-Bi using SQL Results
+
+<details>
+  
+  <summary>Click to view the output !</summary> <br>
+  
+  ![PowerBI_Dashboard](Olist_Dashboard.png)  
+
+</details>
+
+
 ## Ten Business queries
 As per SQL skills these business queries are divided into Basic, Intermedia and Advance categories 
 
@@ -69,7 +80,7 @@ As per SQL skills these business queries are divided into Basic, Intermedia and 
 
 </details>
 
-### List shipment delayed orders
+### Late shipment delayed orders
 <details>
   
   <summary>Click to view the output !</summary> <br>
@@ -117,17 +128,4 @@ As per SQL skills these business queries are divided into Basic, Intermedia and 
   ![SQL_Results](/SQL_Results/Advance-3.jpg)  
 
 </details>
-
-
-## Data Visualization using Power-Bi
-
-<details>
-  
-  <summary>Click to view the output !</summary> <br>
-  
-  ![PowerBI_Dashboard](Olist_Dashboard.png)  
-
-</details>
-
-
 
