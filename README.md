@@ -25,7 +25,7 @@ As per SQL skills these business queries are divided into Basic, Intermedia and 
 <details>
   <summary>Click to view the output !</summary>
       - SQL Output
-  ![Database Schema](Olist_Database_Schema.jpg)  
+  ![Database Schema](SQL_Results/Basic-1.jpg)  
 
   
 </details>
