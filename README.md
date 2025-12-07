@@ -17,17 +17,16 @@ Olist sales database comprises of different tables related to Orders,  Products,
 
 ## Data Visualization using Power-Bi using SQL Results
 
-<details>
-  
-  <summary>Click to view the output !</summary> <br>
-  
+After extracting the data using the SQL queries the data can be visualize for better and quick analysis. Below is the Microsoft Power query dashboard with different visualizations.
+
+
   ![PowerBI_Dashboard](Olist_Dashboard.png)  
 
-</details>
 
 
-## Ten Business queries
-As per SQL skills these business queries are divided into Basic, Intermedia and Advance categories 
+## Ten Business related queries
+As per SQL skills these business-related queries are divided into Basic, Intermedia and Advance levels. The SQL code for all queries is available in the repository with the filename 'SQL_Olist_Script.sql'. Below are the business queries and associated SQL outputs.
+
 
 ## Basic Level queries
 
